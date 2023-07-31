@@ -1,0 +1,14 @@
+{
+  "resourceName": "s3webappstorage",
+  "policyUUID": "d4bd646a",
+  "bucketName": "wesocialapp1224",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}

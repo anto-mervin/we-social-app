@@ -1,0 +1,21 @@
+type PostCard @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  Vounter_name: String
+  vounter_pic: AWSURL
+  fund_needed: Int
+  Preview_img: AWSURL
+  TotalUpvotes: Int
+  Title: String
+  desp: String
+  m1: String
+  Location: String
+  m2: String
+  m3: String
+  m4: String
+  m5: String
+  m6: String
+  m7: String
+  m8: String
+  conclusion: String
+}
+ 

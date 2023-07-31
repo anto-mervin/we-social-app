@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-wesocialapp-dev-124813-authRole",
+      "UnauthRoleArn": "arn:aws:iam::014414639302:role/amplify-wesocialapp-dev-124813-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::014414639302:role/amplify-wesocialapp-dev-124813-authRole",
+      "Region": "eu-north-1",
+      "DeploymentBucketName": "amplify-wesocialapp-dev-124813-deployment",
+      "UnauthRoleName": "amplify-wesocialapp-dev-124813-unauthRole",
+      "StackName": "amplify-wesocialapp-dev-124813",
+      "StackId": "arn:aws:cloudformation:eu-north-1:014414639302:stack/amplify-wesocialapp-dev-124813/ec719060-2d16-11ee-a678-0a406bace648",
+      "AmplifyAppId": "d3hqolbabdo921"
+    },
+    "categories": {
+      "auth": {
+        "wesocialapp7be0678f": {}
+      },
+      "api": {
+        "wesocialapp": {}
+      },
+      "storage": {
+        "s3webappstorage": {}
+      }
+    }
+  }
+}
